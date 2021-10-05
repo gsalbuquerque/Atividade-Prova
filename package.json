@@ -2,10 +2,10 @@
   "name": "atividadeprova",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon src/index.js --exec node"
+    "start": "nodemon src/server.js --exec node"
   },
   "author": "",
   "license": "ISC",
